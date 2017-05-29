@@ -1,0 +1,1 @@
+# Simple chinese n-gram
